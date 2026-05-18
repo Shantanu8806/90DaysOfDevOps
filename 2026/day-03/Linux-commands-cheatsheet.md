@@ -2,7 +2,7 @@
 
 # Linux Commands Practice for DevOps Beginners
 
-> Quick handwritten-style Linux notes for daily DevOps practice
+
 
 ---
 
